@@ -1,6 +1,10 @@
 <h1 align="center">Kubernetes and Cloud Native Associate - Study Group</h1>
 <p align="center"><img src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg" width="25%" height="25%"></center></p>
 
+## TL;DR
+
+Please head over to the [Discussions](https://github.com/spurin/KCNA-Study-Group/discussions) forum which is the main area of this repository.
+
 ## Overview 📌
 
 Hello and welcome aboard the KCNA - Kubernetes and Cloud Native Associate - Study Group! This repository is your platform for GitHub-based discussions where you can dive into your studies with peers pursuing the CNCF/Linux Foundations Kubernetes and Cloud Native Associate Qualification.
