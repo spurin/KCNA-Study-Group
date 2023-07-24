@@ -25,6 +25,8 @@ Please head over to the [Discussions](https://github.com/spurin/KCNA-Study-Group
 
 We've also set up a Slack community for real-time interaction with myself and fellow students. Join us using this link: https://community.diveinto.com and hop into the #KCNA channel. 🗨️
 
+There is also a WhatsApp group should you prefer this format, available subject to free spaces in the group: https://chat.whatsapp.com/FpzIqbEU38wLfXcyA8HbQY
+
 As part of this vibrant study group, I'll be hosting drop-in networking sessions open to all. These sessions will be announced in the Slack community and in the [Announcements](https://github.com/spurin/KCNA-Study-Group/discussions/categories/announcements) section of the Discussions. So, stay tuned! 📢
 
 Here's to your successful journey towards the KCNA certification! 🎉 Let's dive in together! 🏊‍♀️
