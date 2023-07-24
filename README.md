@@ -13,7 +13,9 @@ Achieving the KCNA Qualification is like obtaining a golden ticket, showcasing y
 
 ## Layout 📘
 
-The design of this study group mirrors the curriculum of my course, 'Dive Into Cloud Native - Kubernetes, Containers and the KCNA Exam'. In the full course, for each section there's video content, quizzes resembling KCNA exam questions and hands-on labs and challenges. But remember, the study group isn't exclusive to this content—you're free to discuss or reference materials from other KCNA content creators or other content that is available. The ultimate goal is soaring success in the exam! 🏆
+The design of this study group mirrors the curriculum of my course, [Dive Into Cloud Native - Kubernetes, Containers and the KCNA Exam](https://diveinto.com/p/dive-into-cloud-native-containers-kubernetes-and-the-kcna) which is currently available in Early Access.
+
+In the full course, for each section there's video content, quizzes resembling KCNA exam questions and hands-on labs and challenges. But remember, the study group isn't exclusive to this content—you're free to discuss or reference materials from other KCNA content creators or other content that is available. The ultimate goal is soaring success in the exam! 🏆
 
 To access and follow along with the course, visit my site, [DiveInto](https://diveinto.com)
 
